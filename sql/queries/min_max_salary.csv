@@ -1,0 +1,5 @@
+job_category,minimum_salary,maximum_salary
+"Data Analyst",13.5,194.5
+"Data Engineer",26.5,205
+"Data Scientist",15.5,254
+Other,48,129.5
